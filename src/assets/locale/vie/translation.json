@@ -1,0 +1,49 @@
+{
+  "navbar": {
+    "projects": "dự án",
+    "skills": "kỹ năng",
+    "about": "giới thiệu"
+  },
+  "header": {
+    "hello": "Xin chào",
+    "Welcome to my portfolio": "Chào mừng đến với portfolio của tôi"
+  },
+  "content": {
+    "name": "NGUYỄN NHẬT QUANG",
+    "job": "KỸ SƯ PHẦN MỀM",
+    "description": "Tôi là một kỹ sư phần mềm với niềm đam mê xây dựng các giải pháp sáng tạo và hiệu quả. Tôi thích giải quyết các vấn đề phức tạp, tối ưu hóa hiệu suất và tạo ra trải nghiệm người dùng liền mạch. Với nền tảng vững chắc về phát triển phần mềm, tôi luôn mong muốn tìm hiểu các công nghệ mới và cải thiện kỹ năng của mình. Tôi tập trung vào việc viết code sạch, hiệu quả để biến ý tưởng thành hiện thực.",
+
+    "education": "Học vấn",
+    "school": "HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG (PTIT)",
+    "subject": "Công nghệ đa phương tiện",
+
+    "skills": "Kỹ năng của tôi",
+
+    "download cv": "Xem CV",
+    "projects": "Dự án của tôi",
+    
+    "P1Title": "BurgerShop",
+    "P1description": "BurgerShop là một ứng dụng web có khả năng mở rộng được xây dựng bằng Laravel và RESTful APIs cho phần back-end, kết hợp với cơ sở dữ liệu MySQL được tối ưu hóa để quản lý dữ liệu hiệu quả. Nó sử dụng Blade Templates cho giao diện front-end động và responsive.",
+    
+    "P2Title": "SoftwareShop",
+    "P2description": "SoftwareShop là một ứng dụng web có khả năng mở rộng được xây dựng bằng Spring Boot và RESTful APIs cho phần back-end, kết hợp với cơ sở dữ liệu MySQL được tối ưu hóa để quản lý dữ liệu hiệu quả. Nó sử dụng Thymeleaf cho giao diện front-end động và responsive.",
+    
+    "P3Title": "ObjectDetection",
+    "P3description": "Ứng dụng phát hiện đối tượng được xây dựng bằng Python sử dụng thư viện OpenCV, cung cấp khả năng nhận diện đối tượng trong thời gian thực dựa trên hình ảnh hoặc video, với các tính năng như chọn tệp, trích xuất khung hình, và các công cụ chỉnh sửa hình ảnh như xoay và thay đổi kích thước.",
+
+    "P4Title": "CarGame",
+    "P4description": "CarGame là một trò chơi vượt chướng ngại vật hấp dẫn được phát triển bằng Python sử dụng thư viện PyGame, nơi người chơi né tránh chướng ngại vật để tích lũy điểm số.",
+
+    "P5Title": "DoubleGame",
+    "P5description": "DoubleGame là một trò chơi được xây dựng bằng Godot, nơi người chơi rèn luyện trí nhớ bằng cách lật các lá bài để tìm các cặp giống nhau. Mỗi lượt di chuyển sẽ được ghi lại, và người chiến thắng là người hoàn thành việc ghép tất cả các cặp với số lần di chuyển ít nhất.",
+
+    "P6Title": "MusicApp",
+    "P6description": "MusicApp là một ứng dụng thân thiện với người dùng, được xây dựng bằng Java trong Android Studio, hoàn hảo cho những người yêu âm nhạc. Nó cho phép bạn phát, sắp xếp và thưởng thức các bài hát và danh sách phát yêu thích trên thiết bị Android của bạn.",
+
+    "thankyou": "Cảm ơn bạn đã khám phá portfolio của tôi"
+  },
+  "footer": {
+    "smile": "Tôi mong được hợp tác với bạn",
+    "made with": "Được làm bởi"
+  }
+}

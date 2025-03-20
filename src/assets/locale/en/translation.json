@@ -1,0 +1,49 @@
+{
+  "navbar": {
+    "projects": "projects",
+    "skills": "skills",
+    "about": "about"
+  },
+  "header": {
+    "hello": "Hello",
+    "Welcome to my portfolio": "Welcome to my portfolio"
+  },
+  "content": {
+    "name": "NGUYEN NHAT QUANG",
+    "job": "SOFTWARE ENGINEER",
+    "description": "I’m a software engineer with a passion for building innovative and efficient solutions. I enjoy solving complex problems, optimizing performance, and creating seamless user experiences. With a strong foundation in software development, I am always eager to learn new technologies and improve my skills. I focus on writing clean, effective code that brings ideas to life.",
+
+    "education": "Education",
+    "school": "POSTS AND TELECOMMUNICATIONS INSTITUTE OF TECHNOLOGY (PTIT)",
+    "subject": "Multimedia technology",
+
+    "skills": "My skills",
+
+    "download cv": "Get CV",
+    "projects": "My projects",
+    
+    "P1Title": "BurgerShop",
+    "P1description": "BurgerShop is a scalable web app built with Laravel and RESTful APIs for a strong back-end, paired with an optimized MySQL database for efficient data management. It uses Blade Templates for a dynamic, responsive front-end.",
+    
+    "P2Title": "SoftwareShop",
+    "P2description": "SoftwareShop is a scalable web app built with Spring Boot and RESTful APIs for a strong back-end, paired with an optimized MySQL database for efficient data management. It uses Thymeleaf for a dynamic, responsive front-end.",
+    
+    "P3Title": "ObjectDetection",
+    "P3description": "Object Detection App, built with OpenCV, offers real-time object recognition in images or videos, with features like file selection, frame extraction, and image manipulation tools such as rotation and resizing.",
+
+    "P4Title": "CarGame",
+    "P4description": "CarGame is a thrilling obstacle game developed with Python using the PyGame library, where players dodge obstacles to rack up scores.",
+
+    "P5Title": "DoubleGame",
+    "P5description": "DoubleGame is a game built with Godot, where players sharpen their memory by flipping cards to find identical pairs. Each move is recorded, and the winner is the one who matches all pairs with the fewest moves",
+
+    "P6Title": "MusicApp",
+    "P6description": "MusicApp is a sleek, user-friendly app built with Java in Android Studio, perfect for music lovers. It lets you play, organize, and enjoy your favorite songs and playlists on your Android device.",
+
+    "thankyou": "Thank you for exploring my portfolio"
+  },
+  "footer": {
+    "smile": "I look forward to working with you",
+    "made with": "Made with"
+  }
+}
