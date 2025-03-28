@@ -20,7 +20,7 @@ function About({ }: Props) {
   }
 
   const handleDownloadCV = () => {
-    openInNewTab("https://drive.google.com/file/d/1e05fjPk2DsQEcQ9TdHLjBdshGXCJZDWs/view?usp=sharing")
+    openInNewTab("https://drive.google.com/file/d/1p_5nhy7D668Uz7tLzZgNmd_jFsIHjagc/view?usp=sharing")
   }
 
   return (
